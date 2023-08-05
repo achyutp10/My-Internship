@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Tichit",
+      "country": "Mauritania",
+      "emoji": "🇲🇷",
+      "date": "2023-08-04T07:11:59.548Z",
+      "notes": "Hello",
+      "position": {
+        "lat": "18.349038189492514",
+        "lng": "-10.20966627779577"
+      },
+      "id": 1
+    }
+  ]
+}
